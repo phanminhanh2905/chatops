@@ -7,18 +7,9 @@ A lightweight **Bash-based ChatOps bot** that integrates Telegram with my DevOps
 
 # Demo
 
-<p align="center">
-    <img src="docs/images/help.jpg" width="320">
-</p>
-
----
-
-### GitLab CI/CD
-
-<p align="center">
-    <img src="docs/images/build.jpg" width="420">
-    <img src="docs/images/status.jpg" width="420">
-</p>
+| 📖 Help | 🚀 Build Pipeline | 📊 Pipeline Status |
+|:--------:|:----------------:|:------------------:|
+| <img src="docs/images/help.jpg" width="280"> | <img src="docs/images/build.jpg" width="420"> | <img src="docs/images/status.jpg" width="420"> |
 
 ---------------------------------------------- 
 
