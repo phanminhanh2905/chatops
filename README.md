@@ -7,15 +7,21 @@ A lightweight **Bash-based ChatOps bot** that integrates Telegram with my DevOps
 
 # 🚀 Demo
 
-### Telegram Command List
+### Telegram Command List (/help)
 
-![help](docs/images/help.png)
+![help](docs/images/help.jpg)
 
 ---
 
 ### Trigger GitLab Pipeline
 
-![build](docs/images/build.png)
+![build](docs/images/build.jpg)
+
+---
+
+### Check GitLab Pipeline Status
+
+![build](docs/images/status.jpg)
 
 ---------------------------------------------- 
 
