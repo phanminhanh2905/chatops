@@ -4,6 +4,21 @@ A lightweight **Bash-based ChatOps bot** that integrates Telegram with my DevOps
 
 > This is a personal DevOps lab project designed to explore ChatOps, operational automation, and remote infrastructure management.
 
+
+# 🚀 Demo
+
+### Telegram Command List
+
+![help](docs/images/help.png)
+
+---
+
+### Trigger GitLab Pipeline
+
+![build](docs/images/build.png)
+
+---------------------------------------------- 
+
 ## Overview
 
 The bot runs on a dedicated **Admin Server** and uses Telegram as the operational interface.
@@ -29,19 +44,6 @@ Admin Server
     |
     +--- Dev Server
 
-# 🚀 Demo
-
-### Telegram Command List
-
-![help](docs/images/help.png)
-
----
-
-### Trigger GitLab Pipeline
-
-![build](docs/images/build.png)
-
----
 
 ### Pipeline Status
 
