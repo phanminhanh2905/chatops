@@ -28,3 +28,21 @@ Admin Server
     +--- Harbor Registry
     |
     +--- Dev Server
+
+# 🚀 Demo
+
+### Telegram Command List
+
+![help](docs/images/help.png)
+
+---
+
+### Trigger GitLab Pipeline
+
+![build](docs/images/build.png)
+
+---
+
+### Pipeline Status
+
+![status](docs/images/status.png)
