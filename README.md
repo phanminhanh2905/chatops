@@ -1,6 +1,6 @@
 # Telegram ChatOps Automation
 
-A lightweight **Bash-based ChatOps bot** that integrates Telegram with my DevOps lab environment, allowing CI/CD, Kubernetes, Harbor, and server operations to be monitored and managed remotely from a mobile device.
+A Bash-based ChatOps platform for remotely operating GitLab CI/CD, Kubernetes, Harbor, and Linux infrastructure through Telegram.
 
 > This is a personal DevOps lab project designed to explore ChatOps, operational automation, and remote infrastructure management.
 
