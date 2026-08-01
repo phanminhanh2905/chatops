@@ -1,7 +1,0 @@
-#!/bin/bash
-
-TOKEN="8992047042:AAH85DV-7O7yn4eEJb8-jpKKM2aUQo5EY2c"
-GITLAB_URL="https://gitlab.pma-server.site/"
-GITLAB_PROJECT_ID="1"
-GITLAB_ACCESS_TOKEN="glpat-_suCOPNufMTu0wQCQcqLlm86MQp1OjMH.01.0w1fd2hiz"
-K8S_NAMESPACE="shopnow"
